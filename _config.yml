@@ -1,0 +1,28 @@
+name: gregorybesson
+favicon: null
+layout_spectrum: 0.895705139497295
+typography_spectrum: 0.5816260767169297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8417288199998438
+  lightness: 0.3820887969341129
+  saturation: 0.13537961803376675
+  rhythmicContrast: 0.9339886521920562
+purpose: []
